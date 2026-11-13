@@ -1,0 +1,6 @@
+{
+  "name": "Clearwell — Daily Water Intake Tracker",
+  "description": "Track your daily hydration with quick-log presets, pacing guidance, 7-day trends, and a personalized goal calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
